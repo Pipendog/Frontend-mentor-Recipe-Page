@@ -39,6 +39,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 css properties: Learn how to center divs in the mwiddle of the pages
+```css
 body {
   display: flex;
   /*makes box movable around the  body*/
@@ -47,7 +48,8 @@ body {
   justify-content: center;
   align-items: center; /*centers the item to center*/
   min-height: 100vh;
-
+}
+```
 
 
 ### Continued development
